@@ -1,0 +1,16 @@
+{
+    "name": "groomed-by-evil",
+    "title": "Groomed by Evil",
+    "description": "Support module for Groomed by Evil: A Curse of Strahd Campaign",
+    "version": "1.0.0",
+    "author": "FluxAugur#7851",
+    "esmodules": ["/esmodules/ability.js"],
+    "styles": [],
+    "packs": [],
+    "socket": true,
+    "url": "https://github.com/FluxAugur/groomed-by-evil/tree/main",
+    "manifest": "https://raw.githubusercontent.com/FluxAugur/groomed-by-evil/main/module.json",
+    "download": "https://github.com/FluxAugur/groomed-by-evil/raw/master/groomed-by-evil.zip",
+    "minimumCoreVersion": "0.6.0",
+    "compatibleCoreVersion": "0.7.6"
+}
